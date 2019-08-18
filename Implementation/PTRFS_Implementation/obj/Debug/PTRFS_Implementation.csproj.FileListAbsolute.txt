@@ -1,0 +1,10 @@
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\bin\Debug\PTRFS_Implementation.exe.config
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\bin\Debug\PTRFS_Implementation.exe
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\bin\Debug\PTRFS_Implementation.pdb
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\obj\Debug\PTRFS_Implementation.csprojAssemblyReference.cache
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\obj\Debug\PTRFS_Implementation.Form1.resources
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\obj\Debug\PTRFS_Implementation.Properties.Resources.resources
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\obj\Debug\PTRFS_Implementation.csproj.GenerateResource.cache
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\obj\Debug\PTRFS_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\obj\Debug\PTRFS_Implementation.exe
+C:\Users\Belgelerim\source\repos\PTRFS_Implementation\PTRFS_Implementation\obj\Debug\PTRFS_Implementation.pdb
